@@ -1,0 +1,11 @@
+1. // Il permet de commenter sur une ligne
+
+2. /* */Il permet de commenter en même temps plusieurs lignes
+
+3. sommeEuros est une variable
+
+4. double permet de déclarer une variable c'est un type
+
+5. Cette phrase est un commentaire qui permet de comprendre ce qu'est la variable sommeEuros
+
+6. const est un type qui permet de rendre la valeur imuable pour le restedu programme
